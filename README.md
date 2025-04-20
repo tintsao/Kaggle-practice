@@ -1,2 +1,2 @@
 # Kaggle-practice
-The practice for solving issues about basic concept of ML, DL on Kaggle.
+A collection of solutions to basic machine learning and deep learning problems on Kaggle(Officially released practice).
